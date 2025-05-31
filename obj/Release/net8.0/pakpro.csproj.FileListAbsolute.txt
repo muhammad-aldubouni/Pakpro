@@ -1,0 +1,14 @@
+/home/muhammad/files/projects/desktop/linux-based/cli-apps/package-manager/stable/pakpro/bin/Release/net8.0/pakpro
+/home/muhammad/files/projects/desktop/linux-based/cli-apps/package-manager/stable/pakpro/bin/Release/net8.0/pakpro.deps.json
+/home/muhammad/files/projects/desktop/linux-based/cli-apps/package-manager/stable/pakpro/bin/Release/net8.0/pakpro.runtimeconfig.json
+/home/muhammad/files/projects/desktop/linux-based/cli-apps/package-manager/stable/pakpro/bin/Release/net8.0/pakpro.dll
+/home/muhammad/files/projects/desktop/linux-based/cli-apps/package-manager/stable/pakpro/bin/Release/net8.0/pakpro.pdb
+/home/muhammad/files/projects/desktop/linux-based/cli-apps/package-manager/stable/pakpro/obj/Release/net8.0/pakpro.GeneratedMSBuildEditorConfig.editorconfig
+/home/muhammad/files/projects/desktop/linux-based/cli-apps/package-manager/stable/pakpro/obj/Release/net8.0/pakpro.AssemblyInfoInputs.cache
+/home/muhammad/files/projects/desktop/linux-based/cli-apps/package-manager/stable/pakpro/obj/Release/net8.0/pakpro.AssemblyInfo.cs
+/home/muhammad/files/projects/desktop/linux-based/cli-apps/package-manager/stable/pakpro/obj/Release/net8.0/pakpro.csproj.CoreCompileInputs.cache
+/home/muhammad/files/projects/desktop/linux-based/cli-apps/package-manager/stable/pakpro/obj/Release/net8.0/pakpro.dll
+/home/muhammad/files/projects/desktop/linux-based/cli-apps/package-manager/stable/pakpro/obj/Release/net8.0/refint/pakpro.dll
+/home/muhammad/files/projects/desktop/linux-based/cli-apps/package-manager/stable/pakpro/obj/Release/net8.0/pakpro.pdb
+/home/muhammad/files/projects/desktop/linux-based/cli-apps/package-manager/stable/pakpro/obj/Release/net8.0/pakpro.genruntimeconfig.cache
+/home/muhammad/files/projects/desktop/linux-based/cli-apps/package-manager/stable/pakpro/obj/Release/net8.0/ref/pakpro.dll

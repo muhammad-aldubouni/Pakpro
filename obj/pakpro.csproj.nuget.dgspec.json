@@ -1,0 +1,99 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/muhammad/files/projects/desktop/linux-based/cli-apps/package-manager/stable/pakpro/pakpro.csproj": {}
+  },
+  "projects": {
+    "/home/muhammad/files/projects/desktop/linux-based/cli-apps/package-manager/stable/pakpro/pakpro.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/muhammad/files/projects/desktop/linux-based/cli-apps/package-manager/stable/pakpro/pakpro.csproj",
+        "projectName": "pakpro",
+        "projectPath": "/home/muhammad/files/projects/desktop/linux-based/cli-apps/package-manager/stable/pakpro/pakpro.csproj",
+        "packagesPath": "/home/muhammad/.nuget/packages/",
+        "outputPath": "/home/muhammad/files/projects/desktop/linux-based/cli-apps/package-manager/stable/pakpro/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/muhammad/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.DotNet.ILCompiler": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.5, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.5, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.linux-x64",
+              "version": "[8.0.5, 8.0.5]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.linux-x64",
+              "version": "[8.0.5, 8.0.5]"
+            },
+            {
+              "name": "runtime.linux-x64.Microsoft.DotNet.ILCompiler",
+              "version": "[8.0.5, 8.0.5]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/muhammad/files/sdks/dotnet/sdk/8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

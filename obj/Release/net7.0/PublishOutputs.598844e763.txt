@@ -1,0 +1,5 @@
+/home/muhammad/files/projects/package-manager/pakpro/test/pakpro
+/home/muhammad/files/projects/package-manager/pakpro/test/pakpro.dll
+/home/muhammad/files/projects/package-manager/pakpro/test/pakpro.deps.json
+/home/muhammad/files/projects/package-manager/pakpro/test/pakpro.runtimeconfig.json
+/home/muhammad/files/projects/package-manager/pakpro/test/pakpro.pdb

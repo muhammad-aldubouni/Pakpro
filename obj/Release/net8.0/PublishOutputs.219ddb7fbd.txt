@@ -1,0 +1,5 @@
+/home/muhammad/files/projects/desktop/linux-based/cli-apps/package-manager/stable/pakpro/output/pakpro
+/home/muhammad/files/projects/desktop/linux-based/cli-apps/package-manager/stable/pakpro/output/pakpro.dll
+/home/muhammad/files/projects/desktop/linux-based/cli-apps/package-manager/stable/pakpro/output/pakpro.deps.json
+/home/muhammad/files/projects/desktop/linux-based/cli-apps/package-manager/stable/pakpro/output/pakpro.runtimeconfig.json
+/home/muhammad/files/projects/desktop/linux-based/cli-apps/package-manager/stable/pakpro/output/pakpro.pdb

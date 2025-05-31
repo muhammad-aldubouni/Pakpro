@@ -1,0 +1,2 @@
+/home/muhammad/files/projects/desktop/linux-based/cli-apps/package-manager/stable/pakpro/output/pakpro
+/home/muhammad/files/projects/desktop/linux-based/cli-apps/package-manager/stable/pakpro/output/pakpro.pdb

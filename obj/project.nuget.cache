@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "auLyVVVvVqw=",
+  "success": true,
+  "projectFilePath": "/home/muhammad/files/projects/desktop/linux-based/cli-apps/package-manager/stable/pakpro/pakpro.csproj",
+  "expectedPackageFiles": [
+    "/home/muhammad/.nuget/packages/microsoft.dotnet.ilcompiler/8.0.5/microsoft.dotnet.ilcompiler.8.0.5.nupkg.sha512",
+    "/home/muhammad/.nuget/packages/microsoft.net.illink.tasks/8.0.5/microsoft.net.illink.tasks.8.0.5.nupkg.sha512",
+    "/home/muhammad/.nuget/packages/runtime.linux-x64.microsoft.dotnet.ilcompiler/8.0.5/runtime.linux-x64.microsoft.dotnet.ilcompiler.8.0.5.nupkg.sha512",
+    "/home/muhammad/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/8.0.5/microsoft.netcore.app.runtime.linux-x64.8.0.5.nupkg.sha512",
+    "/home/muhammad/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/8.0.5/microsoft.aspnetcore.app.runtime.linux-x64.8.0.5.nupkg.sha512",
+    "/home/muhammad/.nuget/packages/runtime.linux-x64.microsoft.dotnet.ilcompiler/8.0.5/runtime.linux-x64.microsoft.dotnet.ilcompiler.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
